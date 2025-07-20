@@ -2,7 +2,7 @@
 # Name - Prachi Gupta
 # Intern ID - CT08DL489
 # Domain - cloud computing 
-# Duration- 6 weeks 
+# Duration- 8 weeks 
 # Mentor - Neela Santosh
 # Task 1 – Set up and configure cloud storage on AWS S3 (CodTech Internship)
 #  Cloud Computing Internship – Task 1
