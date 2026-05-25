@@ -40,21 +40,7 @@ The objective was to configure cloud monitoring and alerting services on AWS to 
 5. Tested alert notifications.
 6. Verified monitoring dashboard.
 
-
-## screenshots-
-Screenshot 2025-06-26 135658.png
-Screenshot 2025-06-26 140034.png
-Screenshot 2025-06-26 140331.png
-Screenshot 2025-06-26 140508.png
-Screenshot 2025-06-26 140814.png
-Screenshot 2025-06-26 141312.png
-Screenshot 2025-06-26 141331.png
-Screenshot 2025-06-26 141730.png
-Screenshot 2025-06-26 142223.png
-Screenshot 2025-06-26 142314.png
-Screenshot 2025-06-26 144730.png
-Screenshot 2025-06-26 145423.pn
-
+ALL THE SCREENSHOTS ARE ATTACHED TO THIS REPOSITORY
 
 ## Learning Outcomes
 Through this project, I gained hands-on experience in:
