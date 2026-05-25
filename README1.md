@@ -40,16 +40,6 @@ Set up and configure cloud storage on AWS S3. Upload files, configure access per
   - public_url_tested.png
 
 
-
-
----
-
-##  Public URL
-Here is a publicly accessible file:  
-🔗 [Click to View intern1.jpg](https://prachi-cloud-bucket-001.s3.ap-south-1.amazonaws.com/intern1.jpg)  
-
-
-
 ---
 
 ##  What I Learned
