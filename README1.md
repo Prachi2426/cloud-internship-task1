@@ -32,7 +32,6 @@ Set up and configure cloud storage on AWS S3. Upload files, configure access per
 
 ##  Folder Structure
   README.md
-- intern1.jpg
 - screenshots/
   - bucket_created.png
   - file_uploaded.png
