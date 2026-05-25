@@ -8,8 +8,8 @@
 #  Cloud Computing Internship – Task 1
 
 
-## Project Overview
-This project was completed as part of the **CODTECH Cloud Computing Internship**.  
+## Task Overview
+This task was completed as part of the **CODTECH Cloud Computing Internship**.  
 The objective was to configure cloud monitoring and alerting services on AWS to track resource performance, detect issues, and send automated notifications.
 
 ## Technologies and Services Used
