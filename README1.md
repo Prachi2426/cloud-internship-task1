@@ -47,8 +47,7 @@ Through this project, I gained hands-on experience in:
 - Cloud monitoring and observability
 - AWS alerting mechanisms
 - Infrastructure reliability management
-- IAM-based security configuration
-
+- IAM-based security configurations
 ## Author
 **Prachi Gupta**  
 CODTECH Cloud Computing Internship
